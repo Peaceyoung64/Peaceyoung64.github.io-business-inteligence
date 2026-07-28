@@ -442,8 +442,7 @@ footer p {
     #projects .container {
         padding: 0 5px; 
     }
-
-
+    /* copy responsiveness */
 
     .projects-grid {
         grid-template-columns: repeat(1, 1fr);
@@ -452,6 +451,8 @@ footer p {
     .projects-grid .project-card .project-buttons {
         display: grid;
     }
+
+    /* end here */
 
     .skills-table {
         grid-template-columns: 1fr;
