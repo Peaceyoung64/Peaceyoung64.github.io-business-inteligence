@@ -1,61 +1,115 @@
-# Nnadika Peace - Business Intelligence Analysis Portfolio
+# Business Intelligence Analyst Portfolio
 
-Welcome! This repository contains the complete template for a professional, one-page  Business Intelligence analysis portfolio website, hosted for free on GitHub Pages.
+The website presents my Business Intelligence projects, technical skills, experience, and how my work supports better and faster business decisions.
 
-## About This Portfolio Template
+## Live Portfolio
 
-This portfolio is designed to demonstrate skills in:
-- Data visualization and storytelling
-- Data modeling and analysis
-- Creating interactive, professional dashboards
-- Transforming complex data into actionable insights
+[View My Portfolio Website](YOUR_LIVE_PORTFOLIO_LINK)
 
-##  Projects
+## About This Portfolio
 
-This template is set up to showcase your best work. You can easily customize the project cards in the `index.html` file.
+I created this portfolio to show how I use data to help businesses:
 
-### Project Title One
-*A brief description of your project, the tools used, and the key insights derived.*
+- Understand performance
+- Identify business problems
+- Discover growth opportunities
+- Make informed decisions
+- Improve reporting processes
 
-### Project Title Two
-*A brief description of your project, the tools used, and the key insights derived.*
+Each project focuses on four key areas:
 
-### Project Title Three
-*A brief description of your project, the tools used, and the key insights derived.*
+1. Business problem
+2. Analysis process
+3. Key findings
+4. Business recommendations
+
+## Featured Projects
+
+### Global Shop International
+
+An end-to-end retail analytics project built with Databricks, PySpark, SQL, Delta Lake, and Power BI.
+
+The project transformed raw data through Bronze, Silver, and Gold layers before presenting business-ready insights on revenue, profit, customers, products, and regional performance.
+
+[View Project Repository](https://github.com/Peaceyoung64/global_shop)
+
+### GlowMart Sales Dashboard
+
+A Power BI sales and inventory dashboard developed to help management understand revenue performance, product demand, profitability, and regional stock requirements.
+
+The analysis showed why inventory should be allocated based on actual demand instead of being distributed equally across locations.
+
+[View Project Repository](https://github.com/Peaceyoung64/glowmart-sales-dashboared)
+
+### Customer Experience and Satisfaction Dashboard
+
+A real estate customer experience dashboard that analysed customer satisfaction, trust, complaints, service quality, agent performance, and recommendation rates.
+
+The findings identified the service issues affecting customer trust, retention, referrals, and business reputation.
+
+[View Project Repository](https://github.com/Peaceyoung64/customer-experience-and-satisfactin-Dahboard)
+
+### Sales Variance Analysis
+
+A Power BI dashboard that compared actual sales against targets across salespeople, territories, months, and years.
+
+The analysis helped management identify performance gaps, top performers, seasonal patterns, and areas requiring immediate attention.
+
+[View Project Repository](https://github.com/Peaceyoung64/Variance_Analysis)
+
+## Portfolio Sections
+
+The website includes:
+
+- Home
+- About Me
+- Skills
+- Featured Projects
+- Experience
+- Contact
+
+## Skills Presented
+
+### Business Intelligence
+
+- Power BI
+- DAX
+- Power Query
+- Dashboard Development
+- Data Modelling
+- KPI Development
+- Data Storytelling
+
+### Data Analysis
+
+- SQL
+- Excel
+- Data Cleaning
+- Data Validation
+- Exploratory Data Analysis
+- Business Analysis
+
+### Cloud Analytics
+
+- Databricks
+- PySpark
+- Delta Lake
+- Medallion Architecture
+- Bronze, Silver, and Gold Layers
 
 
-## 🛠️ Skills
+## Contact
 
-Update the `index.html` file to reflect your personal technical skillset. The template is organized into key categories:
+I am open to Business Intelligence Analyst opportunities where I can help organisations improve reporting, understand performance, and make faster decisions with reliable data.
 
-- **Data Visualization**: Power BI, Tableau, Matplotlib, etc.
-- **Data Analysis**: SQL, Python (Pandas), R, Excel, etc.
-- **Data Modeling**: Power Query, DAX, Star Schema Design, etc.
-- **Tools**: List any other relevant tools like Power BI Service, specific cloud platforms, etc.
+* [LinkedIn](https://www.linkedin.com/in/nnadika-nnetachukwu-peace-385918396/)
+* [GitHub](https://github.com/Peaceyoung64)
+* [Email](mailto:peacennadika2022@gmail.com)
 
-## 💡 How to Use This Template
+---
 
-Creating your own portfolio from this template is a simple, four-step process.
+**Nnadika Peace**
+Business Intelligence Analyst
 
-### 1. Create a New Repository from this Template
-Click the green **"Use this template"** button at the top of this repository page, then select **"Create a new repository"**.
-
-### 2. Name Your Repository for GitHub Pages
-This is the most important step. To turn your portfolio into a live website, you **must** name your new repository in the following format:
-`your-username.github.io`
-*(Replace `your-username` with your actual GitHub username.)*
-
-### 3. Customize Your Portfolio
-Open the `index.html` file and begin personalizing it. The file contains helpful `<!--💡UPDATE: ... -->` comments to guide you on where to change:
-- Your name and title
-- Social media links
-- The "About Me" section
-- Your project titles, descriptions, and links
-- Your list of skills
-
-### 4. Add Your Files
-- Upload your profile photo and project preview images to the `assets/images/` folder.
-- Upload your CV (e.g., in PDF format) to the `assets/` folder.
-- Create your favicon and add it to the root folder.
-
-Once you commit your changes, your new portfolio website will be live at `https://your-username.github.io` within a few minutes!
+```
+```
