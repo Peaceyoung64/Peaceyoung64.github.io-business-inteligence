@@ -4,7 +4,7 @@ The website presents my Business Intelligence projects, technical skills, experi
 
 ## Live Portfolio
 
-[View My Portfolio Website](YOUR_LIVE_PORTFOLIO_LINK)
+[View My Portfolio Website]([YOUR_LIVE_PORTFOLIO_LINK](https://peaceyoung64.github.io/Peaceyoung64.github.io-business-inteligence/))
 
 ## About This Portfolio
 
