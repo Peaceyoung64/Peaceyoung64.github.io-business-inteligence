@@ -369,6 +369,16 @@ nav ul li a:hover::after {
     margin-bottom: 25px;
 }
 
+
+.contact-details h3 {
+    font-size: 1.5rem;
+    color: var(--dark-text-color);
+}
+
+.contact-details ul li {
+    list-style: disc;
+}
+
 .contact-form label {
     display: block;
     margin-bottom: 8px;
